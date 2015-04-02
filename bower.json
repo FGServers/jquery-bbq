@@ -7,6 +7,9 @@
     "url": "git://github.com/xnova/jquery-bbq.git"
   },
   "dependencies": {},
-  "ignore": {}
+  "ignore": {
+    "docs",
+    "examples"
+  },
   "private": true
 }
