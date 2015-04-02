@@ -1,0 +1,12 @@
+{
+  "name": "ojquery-bbq",
+  "description": "description TODO",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xnova/jquery-bbq.git"
+  },
+  "dependencies": {},
+  "ignore": {}
+  "private": true
+}
